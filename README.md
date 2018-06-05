@@ -16,6 +16,8 @@ make[1]: Leaving directory '/home/roger/Source/rlipscombe/erlang-mk-eunit-bug/ap
 
 ## `make eunit` works fine
 
+Ignore the fact that the test fails; this is just to demonstrate that the test _runs_.
+
 ```
 roger@roger-pc:~/Source/rlipscombe/erlang-mk-eunit-bug [master] $ make eunit
 make[1]: Entering directory '/home/roger/Source/rlipscombe/erlang-mk-eunit-bug/apps/foo'
